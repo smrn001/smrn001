@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrn001&label=Profile%20views&color=0e75b6&style=flat" alt="smrn001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smrn001" alt="smrn001" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [samirn.com.np](samirn.com.np)
 
 <h3 align="left">Connect with me:</h3>
