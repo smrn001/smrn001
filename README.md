@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrn001&label=Profile%20views&color=0e75b6&style=flat" alt="smrn001" /> </p>
 
-- 👨‍💻 All of my projects are available at [samirn.com.np](samirn.com.np)
+- 👨‍💻 All of my projects are available at [samirn.com.np](https://samirn.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
